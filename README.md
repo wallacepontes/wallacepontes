@@ -14,7 +14,12 @@ I'm a Alexander Bryksin, Senior Software Developer focusing on fullstack web app
   <img align="left" alt="Alexander's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+
+<br />
+
+
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/) on project for [Sber](https://www.sber.ru/)
 - 🌱 I’m currently learning Go and Backend development
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
@@ -37,8 +42,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="25" height="25" />
 </p>
 
 ### Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AleksK1NG&show_icons=true&count_private=true" alt="AleksK1NG" />
+<img  src="https://github-readme-stats.vercel.app/api?username=AleksK1NG&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="AleksK1NG">
