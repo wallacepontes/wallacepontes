@@ -2,20 +2,24 @@
 
 # Hi there 👋
 
-I'm a Alexander Bryksin, Senior Software Developer focusing on fullstack web applications.
+I'm a Alexander Bryksin, Senior Software Developer focusing on fullstack web applications. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-<a href="https://twitter.com/AleksK1NG">
-  <img align="left" alt="Alexander Bryksin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/alexander-bryksin/">
-  <img align="left" alt="Alexander's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<br />
 
-<a href="https://t.me/AlexanderBryksin">
-  <img align="left" alt="Alexander's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
+<p align="center">
+  <a href="https://twitter.com/AleksK1NG">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/twitter.svg"  alt="Alexander Bryksin | Twitter">
+  </a>
+  <img src="https://i.imgur.com/FIER2ut.png">
+  <a href="https://t.me/AlexanderBryksin">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/telegram.svg" alt="Alexander's telegram">
+  </a>
+  <img src="https://i.imgur.com/FIER2ut.png">
+  <a href="https://www.linkedin.com/in/alexander-bryksin/">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/linkedin.svg" alt="Alexander's LinkdeIN">
+  </a>
+</p>
 
 <br />
 
