@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 # Hi there 👋
 
 I'm a Alexander Bryksin, Senior Software Developer focusing on fullstack web applications.
