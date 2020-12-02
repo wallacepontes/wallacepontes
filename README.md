@@ -2,18 +2,24 @@
 
 I'm a Alexander Bryksin, Senior Software Developer focusing on fullstack web applications.
 
-<a href="https://www.linkedin.com/in/alexander-bryksin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://twitter.com/AleksK1NG">
+  <img align="left" alt="Alexander Bryksin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/alexander-bryksin/">
+  <img align="left" alt="Alexander's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/AlexanderBryksin">
+  <img align="left" alt="Alexander's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Luxoft
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JS/TS, React, Angular ,Vue, NodeJS, Go
+- 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/) on project for [Sber](https://www.sber.ru/)
+- 🌱 I’m currently learning Go and Backend development
+- 💬 Ask me about JS/TS, React/Angular/Vue, NodeJS, Go
 - 📫 How to reach me: alexander.bryksin@yandex.ru
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
@@ -23,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
