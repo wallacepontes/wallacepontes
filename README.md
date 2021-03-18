@@ -25,9 +25,8 @@ I'm a Alexander Bryksin, Software Developer focusing on fullstack JavaScript and
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/) on project for [Sber](https://www.sber.ru/)
-- 🌱 I’m currently learning Go and Backend development
-- 💬 Ask me about JS/TS, React/Angular/Vue, NodeJS, Go
+- 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/)
+- 🌱 I’m currently concentrated on Go and microservices
 - 📫 How to reach me: alexander.bryksin@yandex.ru
 
 <h3>🚀 Some Tools I Use</h3>
