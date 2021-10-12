@@ -5,19 +5,10 @@
 I'm a Alexander Bryksin, Software Developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
-<p>
-  <a href="https://twitter.com/AleksK1NG">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/twitter.svg"  alt="Alexander Bryksin | Twitter">
-  </a>
-  <img src="https://i.imgur.com/FIER2ut.png">
-  <a href="https://t.me/AlexanderBryksin">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/telegram.svg" alt="Alexander's telegram">
-  </a>
-  <img src="https://i.imgur.com/FIER2ut.png">
-  <a href="https://www.linkedin.com/in/alexander-bryksin/">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/linkedin.svg" alt="Alexander's LinkdeIN">
-  </a>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AleksK1NG)](https://twitter.com/AleksK1NG)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/aleksandr.bryksin.7)](https://www.facebook.com/aleksandr.bryksin.7)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-bryksin)](https://www.linkedin.com/in/alexander-bryksin)
+[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/AlexanderBryksin)
 
 <br />
 
