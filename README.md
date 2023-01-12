@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ### Github stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AleksK1NG&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="AleksK1NG">
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AleksK1NG&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="AleksK1NG">
