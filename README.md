@@ -2,12 +2,12 @@
 
 # Hi there 👋
 
-I'm a Alexander Bryksin, Software Developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Wallace Pontes, Software Developer focusing on Microservices and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AleksK1NG)](https://twitter.com/AleksK1NG)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-bryksin)](https://www.linkedin.com/in/alexander-bryksin)
-[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/AlexanderBryksin)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/wallacepontes)](https://twitter.com/AleksK1NG)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallacepontes)](https://www.linkedin.com/in/wallacepontes)
+[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/wallacepontes)](https://t.me/wallacepontes)
 
 <br />
 
@@ -15,9 +15,9 @@ I'm a Alexander Bryksin, Software Developer focusing on Golang and Java. <img sr
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/)
-- 🌱 I’m currently concentrated on Go and microservices
-- 📫 How to reach me: alexander.bryksin@yandex.ru
+- 🔭 I’m currently working in [Wall AI](https://www.wallai.com/)
+- 🌱 I’m currently concentrated on Java and microservices
+- 📫 How to reach me: wallacepontes@gmail.com
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ### Github stats
 
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AleksK1NG&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="AleksK1NG">
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wallacepontes&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="wallacepontes">
