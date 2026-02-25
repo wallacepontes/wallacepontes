@@ -25,10 +25,12 @@ I don't just write software; I architect ecosystems. My work spans from high-sca
 <p align="left">
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="35" height="35" />
-  <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollo" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 
 ### **AI & Data Engineering**
@@ -40,6 +42,8 @@ I don't just write software; I architect ecosystems. My work spans from high-sca
   <img src="https://cdn.svgporn.com/logos/apache-spark.svg" alt="spark" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/cassandra.svg" alt="cassandra" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
 </p>
 
 ### **Platform & Resilience**
@@ -47,9 +51,12 @@ I don't just write software; I architect ecosystems. My work spans from high-sca
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="35" height="35" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="terraform" width="35" height="35" />
-  <img src="https://cdn.svgporn.com/logos/argocd-icon.svg" alt="argocd" width="35" height="35" />
   <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
+  <img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 </p>
 
 ---
