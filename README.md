@@ -1,52 +1,65 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![img](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-# Hi there 👋
+# Hi there, I'm a Wallace Pontes 👋
 
-I'm a Wallace Pontes, Software Developer focusing on Microservices and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-<br />
+**Solution Architect | AI Engineer | Tech Strategist** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/wallacepontes)](https://twitter.com/AleksK1NG)
+Building resilient distributed systems, exploring the frontiers of Generative AI, and bridging the gap between complex engineering and business value. 
+
+---
+
+## 🚀 Beyond the Code
+
+I don't just write software; I architect ecosystems. My work spans from high-scale Java microservices to cutting-edge LLM implementations, Data Migration and Telecom domain strategy.
+
+- **🤖 AI & GenAI:** Researching Scaling Laws, MoE architectures, and deploying production-ready GenAI systems at **[Wall AI](https://www.wallai.com.br/)**.
+- **🏗️ Architecture:** Specialist in **BFF (Backend for Frontend)**, **GraphQL Federation**, and **Clean Architecture** to modernize legacy systems.
+- **📡 Telecom Domain:** Deep expertise in **BSS/OSS, 5G evolution**, and **TMForum** standards.
+- **💼 Business Strategy:** Expert in high-stakes **Data Migrations**, BNSOW/RFP processes, and building the "Unstoppable" one-person business model.
+
+---
+
+## 🛠️ My Tech Ecosystem
+
+### **Core Backend & Architecture**
+<p align="left">
+  <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollo" width="35" height="35" />
+</p>
+
+### **AI & Data Engineering**
+
+<p align="left">
+  <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/apache-spark.svg" alt="spark" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/cassandra.svg" alt="cassandra" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="35" height="35" />
+</p>
+
+### **Platform & Resilience**
+<p align="left">
+  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="35" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="terraform" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/argocd-icon.svg" alt="argocd" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="35" height="35" />
+  <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="35" height="35" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://x.com/wallacepontes)](https://x.com/wallacepontes)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallacepontes)](https://www.linkedin.com/in/wallacepontes)
 [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/wallacepontes)](https://t.me/wallacepontes)
 
-<br />
+---
 
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working in [Wall AI](https://www.wallai.com/)
-- 🌱 I’m currently concentrated on Java and microservices
-- 📫 How to reach me: wallacepontes@gmail.com
-
-<h3>🚀 Some Tools I Use</h3>
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="postgresql" width="25" height="25" />
-</p>
-
-### Github stats
-
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wallacepontes&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="wallacepontes">
+*"The goal is not to collect information, but to build a mental model that can predict the next token of the industry."*
