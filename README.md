@@ -1,4 +1,4 @@
-<a>![img](https://github.com/wallacepontes/wallacepontes/tree/main/header_1.png)</a>
+<a>![img](https://github.com/wallacepontes/wallacepontes/blob/main/header_1.png)</a>
 
 # Hi there, I'm Wallace Pontes 👋
 
